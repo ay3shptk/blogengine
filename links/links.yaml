@@ -1,0 +1,19 @@
+links:
+  1:
+    t: text
+    v: enter some text here
+  2:
+    t: link
+    v: https://example.com
+  3:
+    t: link
+    v: https://apple.com
+  4:
+    t: spotify
+    v: https://open.spotify.com/playlist/5vN6wDVnIh6DtnPB3r7EAy
+  5:
+    t: tweet
+    v: https://twitter.com/ayshptk/status/1412105914027438080
+
+
+

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <head>
+        <link href="https://cdn.statically.io/gh/ayshptk/html.css/main/flavour/white.min.css" rel="stylesheet">
+
+        <title>[[title]]</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    </head>
+
+</head>
+
+<body>
+    <h1>[[title]]</h1>
+    <!--[content]-->
+    <a href="feed.xml"><img
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABnklEQVRIie2UsU8TYRjGf++1QxPq4oiyQeLKwKYEcDFhhnDfWZYLOBwuJjA1LMbJxEWvA4y0X4GNpCQMGgbiIBP/gFMTiK4IlgTuZbiraatguRImfsuX5/vePM89d18O7vkP0ipCa1+grAKPU/rVEeYDY3aaG07bsbLSgznAQOLxh+xfA0DgGSEFYcVq06OJc8XsrdHZoI3kiU6I3+2eRrKx8NL9cpOAbhr0AU9Q5kT0c8na3XBtbfBWAgLPyOnFeR50GKEI/FBlTJ3Mt9Dapz0HACzOzp4EnncQGPMu1/g9hLIp8FCVrW6adPMNfinsO4588F13W1VnSnZdBJ3CyawAEz01APICExpprVSpvBURzTVOfeAnMP6pXH2eOiDwjGSji34VloAzRYqlanXS9/1jRT4CIEz31OBVoXC0YMx7lGWAKNI3sW9Ui1cdTR0Qlu3XsGL3AKKMlGNDRgByjcb3ZOxR+gZChKAAr133MNl9AOD7/nGrvoprb1HgmWcdWq7T/+LO/0V1YCC5/2mpt4r2BsJ858CNzWOPe7rnEjEFjH80xoQiAAAAAElFTkSuQmCC"></a>
+
+
+</body>
+
+</html>
